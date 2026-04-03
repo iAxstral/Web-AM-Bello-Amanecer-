@@ -1,0 +1,9 @@
+frontend/node_modules/
+frontend/dist/
+backend/node_modules/
+backend/data/leads.json
+Web-Fronted/node_modules/
+Web-Fronted/dist/
+Web-Backed/node-backend/node_modules/
+Web-Backed/node-backend/data/leads.json
+*.log

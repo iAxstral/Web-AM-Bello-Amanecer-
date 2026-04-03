@@ -1,0 +1,11 @@
+[
+  {
+    "id": "0a4ead22-8067-4953-a37d-613e9b5d8e0a",
+    "nombre": "Prueba Web",
+    "telefono": "3000000000",
+    "email": "prueba@ejemplo.com",
+    "servicioInteres": "Quiero recibir asesor�a",
+    "mensaje": "Validacion automatica del formulario",
+    "createdAt": "2026-04-03T18:59:11.159Z"
+  }
+]
